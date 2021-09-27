@@ -1,1 +1,5 @@
-Aqui está toda parte estrutural da página!
+Aqui está toda parte estrutural da página.
+
+Correção de códico da estrura da página.
+
+Agora está funcionando!
